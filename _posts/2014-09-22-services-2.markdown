@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: mobile_development.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Mobile Development
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Building once and deploying to all is our take in Mobile development. It will be easier for us and way cheaper to you.
